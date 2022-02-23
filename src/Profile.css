@@ -1,0 +1,53 @@
+.your-pro{
+      text-align: center;
+      padding-top: 3rem;
+      font-size: 3rem;
+      
+      font-size: 80px;
+      color: rgb(141, 204, 204);
+      font-style: oblique;
+       
+     
+}
+
+
+
+.img-profile {
+    display: block;
+    margin: auto;
+    margin-top: 2rem;
+    height: 20rem;
+    width: 20rem;
+    border: 2px solid black;
+  }
+
+  
+  
+  .username-profile{
+      text-align: center;
+      padding-top: 3rem;
+      font-size: 4rem;
+      font-weight: 100;
+      font-style: oblique;
+   
+      color: beige;
+  }
+  
+  .ttpost{
+      text-align: center;
+      font-size: 2rem;
+      color: beige;
+      font-style: oblique;
+       
+  }
+  .profile-container{
+       
+      width: 100vw;
+      height: 100vh;
+      background-image: url("https://images.unsplash.com/photo-1505635552518-3448ff116af3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZGFyayUyMHRoZW1lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      overflow: hidden;
+  }
+  
